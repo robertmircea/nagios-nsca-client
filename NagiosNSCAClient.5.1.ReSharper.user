@@ -1,0 +1,280 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:EncryptorFactory.cs" caret="571" fromTop="16" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:PassiveCheckProtocolWriter.cs" caret="53" fromTop="0" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NSCAEncryptionType.cs" caret="129" fromTop="6" />
+      <File id="1FFE78DD-3B64-45A2-8482-2D8054BD566D/f:App.config" caret="194" fromTop="5" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NSCASettings.cs" caret="547" fromTop="19" />
+      <File id="1FFE78DD-3B64-45A2-8482-2D8054BD566D/f:Program.cs" caret="136" fromTop="6" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NSCAClientSender.cs" caret="681" fromTop="20" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NullNSCAClientSender.cs" caret="192" fromTop="5" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:INSCAClientSender.cs" caret="344" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1FFE78DD-3B64-45A2-8482-2D8054BD566D/f:Program.cs" caret="966" fromTop="18" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NSCAClientSender.cs" caret="695" fromTop="16" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NSCAClientSender.cs" caret="710" fromTop="29" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:EncryptorFactory.cs" caret="538" fromTop="14" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:EncryptorFactory.cs" caret="682" fromTop="21" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:EncryptorFactory.cs" caret="682" fromTop="20" />
+      <File id="1FFE78DD-3B64-45A2-8482-2D8054BD566D/f:Program.cs" caret="1259" fromTop="23" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NSCAClientSender.cs" caret="731" fromTop="8" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NSCAClientSender.cs" caret="1894" fromTop="31" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NSCAClientSender.cs" caret="1211" fromTop="17" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NSCASettings.cs" caret="61" fromTop="2" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NSCASettings.cs" caret="519" fromTop="16" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NSCASettings.cs" caret="906" fromTop="28" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NSCASettings.cs" caret="1130" fromTop="33" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NSCASettings.cs" caret="1169" fromTop="37" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NSCASettings.cs" caret="1527" fromTop="46" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NSCASettings.cs" caret="1811" fromTop="51" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NSCASettings.cs" caret="823" fromTop="26" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NSCAClientSender.cs" caret="475" fromTop="10" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NSCAClientSender.cs" caret="394" fromTop="11" />
+      <File id="1FFE78DD-3B64-45A2-8482-2D8054BD566D/f:App.config" caret="168" fromTop="3" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NSCASettings.cs" caret="545" fromTop="18" />
+      <File id="1FFE78DD-3B64-45A2-8482-2D8054BD566D/f:Program.cs" caret="439" fromTop="15" />
+      <File id="1FFE78DD-3B64-45A2-8482-2D8054BD566D/f:Program.cs" caret="1129" fromTop="23" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NSCAClientSender.cs" caret="2028" fromTop="51" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NSCAClientSender.cs" caret="254" fromTop="8" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:INSCAClientSender.cs" caret="344" fromTop="16" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:INSCAClientSender.cs" caret="345" fromTop="12" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NullNSCAClientSender.cs" caret="417" fromTop="7" />
+      <File id="207ED594-2D7E-441D-94B5-5794749D4CF7/f:NullNSCAClientSender.cs" caret="160" fromTop="4" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="11" />
+      <Item value="enum" priority="0" />
+      <Item value="string" priority="20" />
+      <Item value="int" priority="4" />
+      <Item value="if" priority="6" />
+      <Item value="value" priority="11" />
+      <Item value="thr" priority="0" />
+      <Item value="void" priority="3" />
+      <Item value="payload" priority="0" />
+      <Item value="client" priority="14" />
+      <Item value="new" priority="21" />
+      <Item value="TcpClient" priority="2" />
+      <Item value="NagiosSettings`0" priority="2" />
+      <Item value="settings" priority="8" />
+      <Item value="stream" priority="32" />
+      <Item value="private" priority="7" />
+      <Item value="const" priority="3" />
+      <Item value="prop" priority="0" />
+      <Item value="byte" priority="22" />
+      <Item value="bytes" priority="0" />
+      <Item value="HOST_NAME_SIZE" priority="2" />
+      <Item value="SERVICE_NAME_SIZE" priority="1" />
+      <Item value="PLUGIN_OUTPUT_SIZE" priority="2" />
+      <Item value="MemoryStream`0" priority="3" />
+      <Item value="MemoryStream" priority="1" />
+      <Item value="StreamWriter`0" priority="2" />
+      <Item value="writer" priority="7" />
+      <Item value="short" priority="2" />
+      <Item value="NSCA_VERSION" priority="0" />
+      <Item value="Level`0" priority="3" />
+      <Item value="using" priority="2" />
+      <Item value="return" priority="12" />
+      <Item value="timestamp" priority="5" />
+      <Item value="t" priority="0" />
+      <Item value="var" priority="5" />
+      <Item value="Array`0" priority="1" />
+      <Item value="Buffer`0" priority="3" />
+      <Item value="static" priority="5" />
+      <Item value="this" priority="5" />
+      <Item value="shortBuf" priority="2" />
+      <Item value="Length" priority="10" />
+      <Item value="intBuf" priority="0" />
+      <Item value="level" priority="1" />
+      <Item value="null" priority="4" />
+      <Item value="size" priority="7" />
+      <Item value="hostName" priority="1" />
+      <Item value="message" priority="1" />
+      <Item value="CRC32`0" priority="1" />
+      <Item value="crc32" priority="0" />
+      <Item value="hash" priority="3" />
+      <Item value="password" priority="3" />
+      <Item value="XorEncryption`0" priority="1" />
+      <Item value="NSCAEncryptionBase`0" priority="0" />
+      <Item value="NSCAEncryptionType`0" priority="3" />
+      <Item value="encryptionType" priority="0" />
+      <Item value="switch" priority="0" />
+      <Item value="EncryptorFactory`0" priority="0" />
+      <Item value="encryptor" priority="0" />
+      <Item value="initVector" priority="2" />
+      <Item value="s" priority="4" />
+      <Item value="protocolWriter" priority="0" />
+      <Item value="serviceName" priority="1" />
+      <Item value="bytesToSend" priority="1" />
+      <Item value="sender" priority="5" />
+      <Item value="NSCAClientSender" priority="0" />
+      <Item value="NagiosSettings" priority="0" />
+      <Item value="EncryptionType" priority="0" />
+      <Item value="NagiosHost" priority="0" />
+      <Item value="Password" priority="0" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="Console`0" priority="1" />
+      <Item value="b" priority="5" />
+      <Item value="args" priority="1" />
+      <Item value="IPAddress`0" priority="0" />
+      <Item value="buffer" priority="1" />
+      <Item value="Math`0" priority="2" />
+      <Item value="catch" priority="0" />
+      <Item value="finally" priority="0" />
+      <Item value="tryf" priority="0" />
+      <Item value="encryptedBytes" priority="0" />
+      <Item value="Encoding`0" priority="0" />
+      <Item value="keyBytes" priority="3" />
+      <Item value="passwordBytes" priority="3" />
+      <Item value="CopyTo`0" priority="0" />
+      <Item value="iv" priority="1" />
+      <Item value="TcpClient`0" priority="0" />
+      <Item value="ar" priority="0" />
+      <Item value="networkStream" priority="0" />
+      <Item value="TripleDESEncryption`0" priority="0" />
+      <Item value="Unknown" priority="0" />
+      <Item value="sealed" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="false" priority="4" />
+      <Item value="true" priority="2" />
+      <Item value="tcpClient" priority="0" />
+      <Item value="Configuration`0" priority="2" />
+      <Item value="DefaultValue" priority="3" />
+      <Item value="IsRequired" priority="3" />
+      <Item value="ConfigurationProperty`0" priority="1" />
+      <Item value="NullNSCAClientSender`0" priority="1" />
+      <Item value="NullNSCAClientSender" priority="0" />
+      <Item value="instance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nagios.NSCA.Client.NagiosSettings">
+      <Item value="NagiosHost" priority="0" />
+      <Item value="Port" priority="0" />
+      <Item value="Equals`0" priority="0" />
+      <Item value="Password" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Sockets.TcpClient">
+      <Item value="BeginConnect`0" priority="1" />
+      <Item value="Client" priority="0" />
+      <Item value="Connect`0" priority="0" />
+      <Item value="GetStream`0" priority="1" />
+      <Item value="Close`0" priority="0" />
+      <Item value="Connected" priority="0" />
+      <Item value="EndConnect`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Sockets.NetworkStream">
+      <Item value="Write`0" priority="1" />
+      <Item value="Read`0" priority="2" />
+      <Item value="Flush`0" priority="1" />
+      <Item value="Close`0" priority="1" />
+      <Item value="BeginRead`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.MemoryStream">
+      <Item value="Write`0" priority="5" />
+      <Item value="ToArray`0" priority="4" />
+      <Item value="WriteByte`0" priority="1" />
+      <Item value="WriteFixedString`0" priority="0" />
+      <Item value="WriteInt`0" priority="2" />
+      <Item value="Position" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="Write`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="TotalSeconds" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="1" />
+      <Item value="IsNullOrEmpty`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="1" />
+      <Item value="PadRight`0" priority="0" />
+      <Item value="Substring`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.Encoding">
+      <Item value="ASCII" priority="1" />
+      <Item value="UTF8" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.Encoding">
+      <Item value="GetBytes`0" priority="3" />
+      <Item value="GetByteCount`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nagios.NSCA.Client.CRC32">
+      <Item value="ComputeHash`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Nagios.NSCA.Client.EncryptorFactory">
+      <Item value="CreateEncryptor`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nagios.NSCA.Client.NSCAEncryptionBase">
+      <Item value="Encrypt`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nagios.NSCA.Client.PassiveCheckProtocolWriter">
+      <Item value="EncodeToProtocol`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Nagios.NSCA.Client.NSCAEncryptionType">
+      <Item value="Xor" priority="1" />
+      <Item value="TripleDES" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nagios.NSCA.Client.INSCAClientSender">
+      <Item value="SendPassiveCheck`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Nagios.NSCA.Client.Level">
+      <Item value="Critical" priority="0" />
+      <Item value="OK" priority="0" />
+      <Item value="Warning" priority="1" />
+      <Item value="Unknown" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.IPAddress">
+      <Item value="Parse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Min`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Nagios.NSCA.Client.CRC32">
+      <Item value="Compute`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Buffer">
+      <Item value="BlockCopy`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Cryptography.TripleDES">
+      <Item value="CreateEncryptor`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Security.Cryptography.PaddingMode">
+      <Item value="PKCS7" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Security.Cryptography.CipherMode">
+      <Item value="CFB" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nagios.NSCA.Client.NSCASettings">
+      <Item value="NSCAAddress" priority="0" />
+      <Item value="Port" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
