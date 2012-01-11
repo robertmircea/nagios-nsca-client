@@ -25,7 +25,7 @@ namespace Nagios.NSCA.Client
         public bool SendPassiveCheck(Level level, string hostName, string serviceName, string message)
         {
             if (string.IsNullOrEmpty(hostName)) throw new ArgumentNullException("hostName");
-            if (string.IsNullOrEmpty(serviceName)) throw new ArgumentNullException("serviceName");
+            if (serviceName == null) throw new ArgumentNullException("serviceName"); //update as per ChrisGeorg issue opened January 05, 2012, https://github.com/robertmircea/nagios-nsca-client/issues/1
             if (message == null) throw new ArgumentNullException("message");
 
             try
