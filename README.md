@@ -1,6 +1,6 @@
 A library to send simple NSCA passive checks to Nagios from .NET applications.
 
-##License
+**License**
 
 Copyright 2011, Robert Mircea
 
