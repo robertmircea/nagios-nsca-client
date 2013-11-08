@@ -4,6 +4,9 @@ namespace Nagios.NSCA.Client
     {
         None,
         Xor,
-        TripleDES
+        TripleDES,
+        Rijndael128,
+        Rijndael192,
+        Rijndael256
     }
 }

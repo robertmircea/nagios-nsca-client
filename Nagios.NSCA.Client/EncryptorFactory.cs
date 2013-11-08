@@ -14,6 +14,12 @@ namespace Nagios.NSCA.Client
                     return new TripleDESEncryption();
                 case NSCAEncryptionType.None:
                     return new NoEncryption();
+                case NSCAEncryptionType.Rijndael128:
+                    return new AESEncryption(16);
+                case NSCAEncryptionType.Rijndael192:
+                    return new AESEncryption(24);
+                case NSCAEncryptionType.Rijndael256:
+                    return new AESEncryption(32);
                 default:
                     throw new ArgumentOutOfRangeException("encryptionType");
             }
