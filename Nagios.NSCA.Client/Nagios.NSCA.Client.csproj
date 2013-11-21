@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CRC32.cs" />
+    <Compile Include="AESEncryption.cs" />
     <Compile Include="EncryptorFactory.cs" />
     <Compile Include="INSCAClientSender.cs" />
     <Compile Include="Level.cs" />
