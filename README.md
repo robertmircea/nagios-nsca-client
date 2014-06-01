@@ -2,9 +2,13 @@
 
 A library to send simple NSCA passive checks to Nagios from .NET applications.
 
+## Build status [![Build status](https://ci.appveyor.com/api/projects/status/va3vyeu3f71yqbif)](https://ci.appveyor.com/project/robertmircea/nagios-nsca-client)
+
+This library is continuously integrated using [AppVeyor](http://www.appveyor.com/) service.
+
 ##License
 
-Copyright 2011, Robert Mircea
+Copyright 2011-2014, Robert Mircea
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
