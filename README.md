@@ -6,7 +6,7 @@ A library to send simple NSCA passive checks to Nagios from .NET applications.
 
 This library is continuously integrated using [AppVeyor](http://www.appveyor.com/) service.
 
-##License
+## License
 
 Copyright 2011-2014, Robert Mircea
 
